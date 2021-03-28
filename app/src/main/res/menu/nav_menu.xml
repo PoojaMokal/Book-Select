@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/Contact"
+            android:title="Contact"
+            android:icon="@drawable/phone">
+        </item>
+
+        <item
+            android:id="@+id/Setting"
+            android:title="Setting"
+            android:icon="@drawable/setting">
+        </item>
+
+        <item
+            android:id="@+id/Email"
+            android:title=" Email"
+            android:icon="@drawable/email">
+        </item>
+
+        <item
+            android:id="@+id/Logout"
+            android:title=" Logout"
+            android:icon="@drawable/logout">
+        </item>
+    </group>
+
+</menu>

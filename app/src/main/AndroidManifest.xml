@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BookSelect">
-        <activity android:name=".SignInActivity"></activity>
+        <activity android:name=".Nav_HeaderActivity"></activity>
+        <activity android:name=".SignInActivity" />
         <activity android:name=".DashboardActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
